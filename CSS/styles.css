@@ -228,8 +228,10 @@
             
 .social{
     border-left: var(--secondary) 5px solid;
+    text-align: center;
     padding-left: 50px;
 }
+
 
 .about img {
     width: 80px;
@@ -366,14 +368,14 @@ background-color: #F26250;
 padding: 1em 3em;
 border: 1px solid ;
 border-radius: 6px;
-margin: 15px 259px;
+margin: 15px 215px;
 display: inline-block;
 font-weight: 300;
 transition: background-color .3s;
 }
 
 .modal {
-  width: 600px;
+  width: 500px;
   position: fixed;
   top: -50%;
   left: 50%;
@@ -431,7 +433,7 @@ transition: background-color .3s;
   width: 100%;
   max-width: 60px;
   display: flex;
-  margin: 5px 265px;
+  margin: 5px 215px;
   justify-content: center;
 }
 
@@ -468,6 +470,8 @@ label {
   color: var(--dark1);
   text-align: center;
 }
+
+
 .btnenviar {
   color: var(--secondary);
   border-radius: 10px;
@@ -497,4 +501,3 @@ label {
   width: 100%;
   height: 26px;
 }
-
