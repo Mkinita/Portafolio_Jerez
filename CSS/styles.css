@@ -229,6 +229,7 @@
 .social{
     
     text-align: center;
+    padding: 8px;
     
 }
 
@@ -363,19 +364,19 @@ section.skills {
 
 .close-modal {
   text-decoration: none;
-color: #fff;
-background-color: #F26250;
-padding: 1em 3em;
-border: 1px solid ;
-border-radius: 6px;
-margin: 15px 215px;
-display: inline-block;
-font-weight: 300;
-transition: background-color .3s;
+  color: #fff;
+  background-color: #F26250;
+  padding: 1em 3em;
+  border: 1px solid;
+  border-radius: 6px;
+  margin: 15px 150px;
+  display: inline-block;
+  font-weight: 300;
+  transition: background-color .3s;
 }
 
 .modal {
-  width: 500px;
+  width: 400px;
   position: fixed;
   top: -50%;
   left: 50%;
@@ -430,11 +431,11 @@ transition: background-color .3s;
   padding: 5px;
 }
 .Tec-utli{
-  width: 100%;
-  max-width: 60px;
-  display: flex;
-  margin: 5px 215px;
-  justify-content: center;
+    width: 100%;
+    max-width: 60px;
+    display: flex;
+    margin: 5px 156px;
+    justify-content: center;
 }
 
 .hero__cta {
